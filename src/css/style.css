@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cantarell&family=IBM+Plex+Sans:wght@700&family=Kanit:wght@400;700&family=Lobster&family=Montserrat&family=Poppins&display=swap');
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+:root {
+  --h1-font: 'Kanit', sans-serif;
+  --h2-font: 'Kanit', sans-serif;
+  --text-font: 'Montserrat', sans-serif;
+  --h1-size: 2.5rem;
+  --h2-size: 3rem;
+  --h3-size: 2rem;
+  --text-size: 1rem;
+  --primary-color: #1E1E1E;
+  --secondary-color: #CBD5E1;
+  --tertiary-color: #119DA4;
+  --quaternary-color: #DD6E42;
+  --icons-size: 1.5rem;
+}
